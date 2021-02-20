@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="azul_oscuro_carta">#6478aa</color>
+    <color name="azul_oscuro_carta_variant">#344C88</color>
+    <color name="dorado_borde_carta">#d5c55f</color>
+    <color name="dorado_borde_carta_semi">#72D5C55F</color>
+    <color name="azul_electrico_interno_carta">#41d9f4</color>
+</resources>
