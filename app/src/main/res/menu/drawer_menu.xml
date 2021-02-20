@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/firstFragment"
+            android:icon="@drawable/ic_calculate"
+            android:title="Calculadora">
+        </item>
+
+        <item
+            android:id="@+id/secondFragment"
+            android:icon="@drawable/ic_game"
+            android:title="Juego">
+        </item>
+
+        <item
+            android:id="@+id/thirdFragment"
+            android:icon="@drawable/ic_list"
+            android:title="Estadísticas">
+        </item>
+
+        <item
+            android:id="@+id/fourthFragment"
+            android:icon="@drawable/ic_location"
+            android:title="Mapa">
+        </item>
+    </group>
+</menu>
